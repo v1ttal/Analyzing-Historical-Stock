@@ -1,2 +1,2 @@
-# Analyzing-Historical-Stock
-Its about what i basically learnt about the videos  in IBM Data Scienece Professiional  Course
+##  About this project
+In this project, am gonna analyze historical stock and revenue data for two companies: Tesla (TSLA) and GameStop (GME). The project involves several key steps, including data extraction using financial libraries and web scraping techniques, data visualization, and dashboard creation. The primary objective is to develop a comprehensive understanding of the stock performance and revenue trends of these companies and present the findings in an interactive and informative dashboard.
